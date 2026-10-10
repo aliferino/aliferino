@@ -56,12 +56,6 @@ logika di sisi server, sampai menyusun tampilan yang nyaman dipakai.
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database" />
 </p>
 
-**Alat Pengembangan**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,docker,linux,vscode,postman" alt="Tools" />
-</p>
-
 ---
 
 ### 📊 GitHub Statistics
